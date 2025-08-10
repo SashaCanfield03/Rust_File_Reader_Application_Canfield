@@ -1,0 +1,1 @@
+/home/jet_mouse/Desktop/Programming/rust/coursera\ course/project2/Rust_File_Reader_Application_Canfield/target/debug/Rust_File_Reader_Application_Canfield: /home/jet_mouse/Desktop/Programming/rust/coursera\ course/project2/Rust_File_Reader_Application_Canfield/src/main.rs
